@@ -1,6 +1,5 @@
 # Output Directories #
 build/
-dist/
 docs/
 src/core/.ng_pkg_build
 target/
